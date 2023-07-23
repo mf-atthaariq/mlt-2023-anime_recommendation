@@ -286,7 +286,9 @@ Berdasarkan pembahasan hasil rekomendasi dari kedua pendekatan sistem, keduanya 
   
 [1]  K. Morrissy & C. May. "Crunchyroll Market Research: Only 6% of Gen Z Don't Know What Anime Is".
 https://www.animenewsnetwork.com/interest/2021-07-09/crunchyroll-market-research-only-6-percent-of-gen-z-dont-know-what-anime-is/.174962 (accessed June 4, 2023).
+
 [2]  A. Hazra. "Netflix: More Than Half of Members Globally Watched 'Anime' Last Year". https://www.animenewsnetwork.com/daily-briefs/2022-03-30/netflix-more-than-half-of-members-globally-watched-anime-last-year/.184167 (accessed June 9, 2023).
+
 [3]  K. Liao. "Prototyping a Recommender System Step by Step Part 1: KNN Item-Based Collaborative Filtering". https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-1-knn-item-based-collaborative-filtering-637969614ea (accessed June 23, 2023).
 
 
