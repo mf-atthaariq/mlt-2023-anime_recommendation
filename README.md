@@ -1,5 +1,4 @@
-﻿# Laporan Proyek Machine Learning - Muhammad Faturachman Atthaariq  
-  
+﻿# Laporan Proyek Machine Learning - Rekomendasi Anime Berdasarkan Judul yang sedang Ditonton
 
 ## Domain Proyek  
 Anime (アニメ) adalah tayangan video animasi dari jepang yang memiliki banyak penonton dari seluruh dunia. Kepopuleran ini karena penggunaan animasi yang menarik dan cerita dengan beragam genre, baik fiksi dan non-fiksi. Anime memiliki visual yang atraktif untuk menarik penonton, terutama di kalangan remaja hingga dewasa.
